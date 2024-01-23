@@ -1,0 +1,15 @@
+artifact_uri: /Users/zeyneperdem/Desktop/ds_prep/p7/mlruns/533481859690968476/c9d5879a792b453094a68423820bc0c8/artifacts
+end_time: 1697104816762
+entry_point_name: ''
+experiment_id: '533481859690968476'
+lifecycle_stage: active
+run_id: c9d5879a792b453094a68423820bc0c8
+run_name: best_model_lgbm
+run_uuid: c9d5879a792b453094a68423820bc0c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697104809826
+status: 3
+tags: []
+user_id: zeyneperdem
